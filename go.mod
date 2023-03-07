@@ -76,8 +76,7 @@ require (
 	github.com/tidwall/sjson v1.1.1
 	github.com/xanzy/go-gitlab v0.50.2
 	go.uber.org/zap v1.17.0
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
+	golang.org/x/crypto v0.1.0
 	golang.org/x/oauth2 v0.0.0-20210805134026-6f1e6394065a // indirect
 	google.golang.org/api v0.30.0
 	google.golang.org/appengine v1.6.7 // indirect
